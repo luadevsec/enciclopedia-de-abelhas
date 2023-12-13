@@ -1,0 +1,17 @@
+footer {
+    background-color: rgb(95, 0, 95);
+}
+
+main section {
+    background-color: aqua;
+    width: 60 vw;
+    height: 40 vh;
+}
+
+nav a {
+    border-radius: 30px;
+    border-color: black;
+    border-width: 3px;
+    width: auto;
+    height: auto;
+}
